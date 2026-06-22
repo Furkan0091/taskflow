@@ -29,7 +29,7 @@ A full-stack task management app built with React and Node.js. Organize work on 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/taskflow.git
+git clone https://github.com/Furkan0091/taskflow.git
 cd taskflow
 ```
 
@@ -37,8 +37,7 @@ cd taskflow
 ```bash
 cd backend
 npm install
-cp .env.example .env
-# Edit .env with your MongoDB URI and JWT secret
+cp .env .env
 npm run dev
 ```
 
