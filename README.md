@@ -29,7 +29,7 @@ A full-stack task management app built with React and Node.js. Organize work on 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/username/taskflow.git
+git clone https://github.com/Furkan0091/taskflow.git
 cd taskflow
 ```
 
